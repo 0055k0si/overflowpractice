@@ -1,9 +1,8 @@
 landmark
 simon
 kosi
-dominion
-ayo
 obi
+winner
 president
 manager
 datti
