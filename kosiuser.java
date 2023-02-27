@@ -5,4 +5,5 @@ dominion
 ayo
 obi
 president
-
+manager
+datti
