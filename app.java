@@ -1,6 +1,7 @@
-This is wonderful
-Developing java apps
+we manage the following:
+java applications
 .net applications
+web applications
 NodeJS Applications 
 python applications
 my bad
